@@ -1,0 +1,4 @@
+CIRCUITPY_WIFI_SSID = "wifi"
+CIRCUITPY_WIFI_PASSWORD = "ssid"
+HOME_ASSISTANT_JWT = "JwtFromHomeAssistant"
+HOME_ASSISTANT_URL = "http://homeassistant.local:8123"
